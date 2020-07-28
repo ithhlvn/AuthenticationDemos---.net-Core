@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAuthHandler", "CustomAuthHandler\CustomAuthHandler.csproj", "{F86A6199-893C-40C8-9368-B30AAACE05C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F86A6199-893C-40C8-9368-B30AAACE05C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86A6199-893C-40C8-9368-B30AAACE05C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86A6199-893C-40C8-9368-B30AAACE05C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86A6199-893C-40C8-9368-B30AAACE05C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BEADD85-1F94-4C8D-AB48-9E1B7D08B23F}
+	EndGlobalSection
+EndGlobal
